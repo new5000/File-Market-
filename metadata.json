@@ -1,0 +1,6 @@
+{
+  "name": "FileMarket - Digital Marketplace Blogger XML Engine",
+  "description": "Production-ready Blogger XML Template (Layout v3) and interactive preview for FileMarket.site digital marketplace with bKash & Nagad payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
